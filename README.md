@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/darwin_logo_512.png" alt="Darwin Toolkit" width="140"/>
-
 # Darwin Toolkit
 
 ### A powerful, all-in-one Windows performance & system optimization toolkit for gamers and power users.
@@ -66,8 +64,9 @@ Everything is **one click away**, every system tweak is logged in a live termina
 
 ## 📸 Screenshots
 
-> _Add your screenshots here, e.g._
-> `![Dashboard](assets/screenshot-dashboard.png)`
+> <img width="1178" height="802" alt="sadasdasdas" src="https://github.com/user-attachments/assets/05074770-5576-4a63-a596-670f1752de92" />
+<img width="1180" height="809" alt="sasda" src="https://github.com/user-attachments/assets/b5dec72f-124a-4a74-b470-56d85bff11e5" />
+<img width="1177" height="805" alt="Ekran Alıntısı" src="https://github.com/user-attachments/assets/e827f203-6837-42d8-bece-b98778cc0010" />
 
 ---
 
