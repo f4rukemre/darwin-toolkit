@@ -138,10 +138,6 @@ That said, this software is provided **"as is", without warranty of any kind**. 
 
 ---
 
-## 📄 License
-
-Released under the **MIT License**. See [`LICENSE`](LICENSE) for details.
-
 <div align="center">
 
 ---
