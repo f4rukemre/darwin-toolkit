@@ -143,5 +143,3 @@ That said, this software is provided **"as is", without warranty of any kind**. 
 ---
 
 *Built with ⚡ for the competitive edge.*
-
-</div>
